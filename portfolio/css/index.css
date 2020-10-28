@@ -223,6 +223,6 @@ section .bg-wrap .bg{
     background-position: center center;
     background-attachment: scroll;  
 }
-/* section.sec1 .bg-wrap .bg{ background-image: url(../images/Untitled-3.jpg) }
+section.sec1 .bg-wrap .bg{ background-image: url(../images/Untitled-3.jpg) }
 section.sec2 .bg-wrap .bg{ background-image: url(../images/bgm.jpg) }
-section.sec3 .bg-wrap .bg{ background-image: url(../images/ss.png) } */
+section.sec3 .bg-wrap .bg{ background-image: url(../images/ss.png) }
